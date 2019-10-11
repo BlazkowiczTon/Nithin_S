@@ -1,0 +1,25 @@
+body {
+	background-color: skyblue;
+}
+.roundbox {
+	border-radius: 100px;
+}
+.box {
+	background-color:lightgrey;
+	width: 550px; 
+	border-width: 5px;
+	border-color: white;
+	border-style: solid;
+}
+.box1 {
+	margin-left: 300px;
+	margin-right: 300px;
+	border-width: 10px;
+	max-height: 1500px;
+	border-color: grey;
+	border-style: inset;
+
+
+}
+
+
